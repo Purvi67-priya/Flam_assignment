@@ -1,4 +1,4 @@
-# 📘 Parametric Curve Fitting Project
+# 📘 Parametric Curve Modeling and Optimization
 
 ## 🧮 Problem Statement
 
