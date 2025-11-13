@@ -162,11 +162,13 @@ The fitted curve (red) closely matches the dataset points (blue/orange), confirm
 
 ---
 
-## ✅ Conclusion
+#✅ Conclusion
 
-- The model fits the observed data accurately.
-- \(e^{M|t|}\) introduces a small damping factor for higher |t| values (since M is negative).
-- The derived parameters \(\theta = 30.04°\), \(M = -0.00528\), \(X = 55.35\) describe the curve optimally.
-- This process demonstrates a complete pipeline for **parametric curve fitting** and **model validation**.
+-The optimized model provides an excellent fit to the observed dataset.
 
+-The exponential term e^(M|t|) introduces a slight damping effect, reducing amplitude for larger |t| values since M is negative.
+
+-The optimized parameters — θ = 30.04°, M = -0.00528, and X = 55.35 — accurately represent the best-fit curve.
+
+-This workflow demonstrates a complete process for parametric curve fitting, optimization, and model validation using Python.
 ---
